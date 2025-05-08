@@ -14,7 +14,9 @@ public class Main {
     }
     public void String(String name){
         name="hello";
+        name="ssssss";
     }
+
 
 
 }
